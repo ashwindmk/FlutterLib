@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutterlib (0.0.1):
+    - Flutter
+    - IosLib
+  - IosLib (0.1.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutterlib (from `.symlinks/plugins/flutterlib/ios`)
+
+SPEC REPOS:
+  trunk:
+    - IosLib
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutterlib:
+    :path: ".symlinks/plugins/flutterlib/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutterlib: 0a7edaafe8549dc664bfd06f5bfffd1798b6a5ad
+  IosLib: 4c5ccf8d578c3a6b512c801c3fc54a4ef58fa8d3
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.9.3
